@@ -1,0 +1,1 @@
+COPY STV2024031233__STAGING.transactions ({}) from stdin DELIMITER ',';
